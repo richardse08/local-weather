@@ -1,0 +1,27 @@
+/* this is my css */
+h {
+    font-size: 64px;
+    font-family: lobster;
+}
+.newClass {
+    font-size: 32px;
+    color: #486548;
+}
+.wellA {
+    margin: 50px;
+    padding: 50px;
+    text-align: center;
+    background-color: bisque
+
+}
+.bodyclass {
+    background-image: url("http://wallpapercave.com/wp/4YUhHd3.jpg");
+    
+}
+.endclass {
+    text-align: center;
+    margin-top: 20%;
+}
+.background {
+    background-color: bisque;
+}
