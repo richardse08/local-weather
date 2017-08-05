@@ -1,21 +1,23 @@
+/* Create background setting that changes sizes incrementally with viewport */
+.wrapper { 
+    background-image: url('images/weather.jpg');
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 #weather {
     padding: 50px;
+    margin: 5% 25% 0% 25%;
     text-align: center;
-    background-color: bisque
+    background-color: bisque;
+    opacity: .7;
 }
 
 #loadingTarget {
     font-size: 32px;
     color: #486548;
-}
-
-.background {
-    background-color: bisque;
-}
-
-.footer {
-    text-align: center;
-    margin-top: 20%;
 }
 
 h {
